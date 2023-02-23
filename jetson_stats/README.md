@@ -10,8 +10,6 @@ sudo apt install moreutils
 
 ## Setup
 
-In tegrastats.service, rename <PATH_TO_SCRIPT> to where tegrastats.sh is installed.
-
 ```bash
 # Install telegraf
 # influxdb.key GPG Fingerprint: 05CE15085FC09D18E99EFB22684A14CF2582E0C5
@@ -42,6 +40,6 @@ sudo systemctl enable <service>
 logrotate -d /etc/logrotate.d/tegrastats
 
 # To monitor local telemetry logs
-sudo tail /var/log/tegrastat.conf -f
+sudo tail -f /var/log/tegrastats/tegrastats.log
 ```
 
