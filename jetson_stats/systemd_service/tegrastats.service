@@ -1,0 +1,14 @@
+[Unit]
+Description=Tegrastat Service
+
+[Service]
+Type=simple
+PermissionsStartOnly=true
+ExecStart=<PATH_TO_SCRIPT>/tegrastats.sh
+StandardOutput=syslog
+StandardError=syslog
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

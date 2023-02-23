@@ -1,0 +1,9 @@
+/var/log/tegrastats/*.log {
+    rotate 7
+    daily
+    missingok
+    copytruncate
+    notifempty
+    delaycompress
+    compress
+}
