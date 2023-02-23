@@ -1,0 +1,14 @@
+[Unit]
+Description=Aeron Service
+
+[Service]
+User=<ADD USER HERE>
+Type=simple
+ExecStart=/opt/aeron/bin/aeronmd -Daeron.term.buffer.length=128m -Daeron.mtu.length=16k -Daeron.sender.idle.strategy=spin -Daeron.receiver.idle.strategy=spin
+StandardOutput=syslog
+StandardError=syslog
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
