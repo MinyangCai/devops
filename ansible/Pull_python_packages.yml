@@ -1,0 +1,13 @@
+- name: Install Python package
+  hosts: local
+  become: true
+  vars:
+    pip_extra_index_url: "https://svc-artfactory:D27z&j62sPLk@industrialnext.jfrog.io/artifactory/api/pypi/pypi-vir/simple"
+  tasks:
+    - name: Install package with pip
+      become: true
+      command: >
+        pip3 install "{{ packagename }}"=="{{ version }}"
+        --index-url="{{ pip_extra_index_url }}"
+        --trusted-host https://industrialnext.jfrog.io
+
