@@ -1,10 +1,10 @@
 [Unit]
-Description=Tegrastat Service
+Description=NVME telemetry Service
 
 [Service]
 Type=simple
 PermissionsStartOnly=true
-ExecStart=/usr/local/bin/tegrastats.sh
+ExecStart=/usr/local/bin/nvme_telemetry.sh
 StandardOutput=syslog
 StandardError=syslog
 Restart=always

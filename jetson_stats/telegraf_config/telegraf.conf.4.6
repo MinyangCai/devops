@@ -6538,45 +6538,30 @@
 
   name_override = "tegrastats"
   
-  grok_patterns = ['%{TIME_P:timestamp:ts-"01-02-2006 15:04:05"} %{RAM_P} %{LFB_P} %{SWAP_P} %{CACHED_P} %{CPU_P} %{EMC_FREQ_P} %{GR3D_FREQ_P} (%{VIC_FREQ_P2})?(%{VIC_FREQ_P1})? %{APE_P} (%{AUX_P} )?(%{CPU_T_P} )?%{TERM_P} (%{AO_P} )?(%{GPU_P} )?(%{IWLWIFI_P} )?(%{PMIC_P} )?%{VDD_IN_P} %{VDD_CPU_GPU_CV_P} %{VDD_SOC_P}']
+  grok_patterns = ['%{TIME_P:timestamp:ts-"2006-01-02 15:04:05.000000"} %{RAM_P} %{LFB_P} %{SWAP_P} %{CACHED_P} %{CPU_P} %{EMC_FREQ_P} %{GR3D_FREQ_P} %{APE_P} %{MTS_FG_P} %{BG_P} %{AO_P} %{GPU_P} %{PMIC_P} %{AUX_P} %{CPU_T_P} %{TERM_P} %{VDD_IN_P} %{VDD_CPU_GPU_CV_P} %{VDD_SOC_P}']
+
   grok_custom_patterns = '''
-    TIME_P %{MONTHNUM}-%{MONTHDAY}-%{YEAR} %{HOUR}:%{MINUTE}:%{SECOND}
+    TIME_P %{YEAR}-%{MONTHNUM}-%{MONTHDAY} %{HOUR}:%{MINUTE}:%{SECOND}.\d+
     RAM_P RAM %{NUMBER:ram_used:int}/%{NUMBER:ram_tot:int}MB
-    LFB_P \(lfb %{NUMBER:pages:int}x%{NUMBER:page_size:int}MB\)
+    LFB_P \(lfb %{NUMBER:pages:int}x4MB\)
     SWAP_P SWAP %{NUMBER:swap_used:int}/%{NUMBER:swap_tot:int}MB
     CACHED_P \(cached %{NUMBER:cached:int}MB\)
     CPU_P CPU \[%{NUMBER:cpu1_percent:int}\%@%{NUMBER:cpu1_freq:int},%{NUMBER:cpu2_percent:int}\%@%{NUMBER:cpu2_freq:int},%{NUMBER:cpu3_percent:int}\%@%{NUMBER:cpu3_freq:int},%{NUMBER:cpu4_percent:int}\%@%{NUMBER:cpu4_freq:int},%{NUMBER:cpu5_percent:int}\%@%{NUMBER:cpu5_freq:int},%{NUMBER:cpu6_percent:int}\%@%{NUMBER:cpu6_freq:int}]
     EMC_FREQ_P EMC_FREQ %{NUMBER:emc_freq_percent:int}\%@%{NUMBER:emc_freq:int}
     GR3D_FREQ_P GR3D_FREQ %{NUMBER:gr3d_freq_percent:int}\%@%{NUMBER:gr3d_freq:int}
-    VIC_FREQ_P2 VIC_FREQ %{NUMBER:vic_usage:int}\%@%{NUMBER:vic_freq:int}
-    VIC_FREQ_P1 VIC_FREQ %{NUMBER:vic_freq:int}
     APE_P APE %{NUMBER:ape:int}
+    MTS_FG_P MTS fg %{NUMBER:mts_fg:int}\%
+    BG_P bg %{NUMBER:mts_bg:int}\%
+    AO_P AO@%{NUMBER:ao_temp:float}C
+    GPU_P GPU@%{NUMBER:gpu_temp:float}C
+    PMIC_P PMIC@%{NUMBER:pmic_temp:float}C
     AUX_P AUX@%{NUMBER:aux_temp:float}C
     CPU_T_P CPU@%{NUMBER:cpu_temp:float}C
     TERM_P thermal@%{NUMBER:thermal_temp:float}C
-    AO_P AO@%{NUMBER:ao_temp:float}C
-    GPU_P GPU@%{NUMBER:gpu_temp:float}C
-    IWLWIFI_P iwlwifi@%{NUMBER:wifi_temp:int}C
-    PMIC_P PMIC@%{NUMBER:pmic_temp:float}C
-    VDD_IN_P VDD_IN %{NUMBER:vddin_pwr:int}mW/%{NUMBER:vddin_avg:int}mW
-    VDD_CPU_GPU_CV_P VDD_CPU_GPU_CV %{NUMBER:vdd_cpu_gpu_cv_pwr:int}mW/%{NUMBER:vdd_cpu_gpu_cv_avg:int}mW
-    VDD_SOC_P VDD_SOC %{NUMBER:vddsoc_pwr:int}mW/%{NUMBER:vddsoc_avg:int}mW
-  '''
-
-  grok_timezone = "Local"
-
-[[inputs.tail]]
-  files = ["/var/log/tegrastats/nvme_telemetry.log"]
-  from_beginning = false
-  data_format = "grok"
-
-  name_override = "tegrastats"
-  
-  grok_patterns = ['%{TIME_P:timestamp:ts-"2006-01-02 15:04:05.000000"} %{NVME_T}']
-  grok_custom_patterns = '''
-    TIME_P %{YEAR}-%{MONTHNUM}-%{MONTHDAY} %{HOUR}:%{MINUTE}:%{SECOND}.\d+
-    NVME_T %{NUMBER:nvme_temp:int}
-  '''
+    VDD_IN_P VDD_IN %{NUMBER:vddin_pwr:int}/%{NUMBER:vddin_avg:int}
+    VDD_CPU_GPU_CV_P VDD_CPU_GPU_CV %{NUMBER:vdd_cpu_gpu_cv_pwr:int}/%{NUMBER:vdd_cpu_gpu_cv_avg:int}
+    VDD_SOC_P VDD_SOC %{NUMBER:vddsoc_pwr:int}/%{NUMBER:vddsoc_avg:int}
+    '''
 
   grok_timezone = "Local"
 
