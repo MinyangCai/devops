@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T12:03:27.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UPFu1bM5KjF87LtX-7H2" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T12:05:48.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wK5jx82_JIqs03sUVYGy" version="21.3.6" type="github">
   <diagram name="Page-1" id="ZHrkb8M3doUFQccYnInZ">
     <mxGraphModel dx="2421" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -269,7 +269,7 @@
           <mxGeometry x="-189.5" y="1470" width="40" height="10" as="geometry" />
         </mxCell>
         <mxCell id="b5K1V9U7q6zCyGQNCphy-68" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/uiux-001-solid/32/Camera-128.png" vertex="1" parent="1">
-          <mxGeometry x="-271.5" y="1970" width="128" height="128" as="geometry" />
+          <mxGeometry x="-271.5" y="1810" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="b5K1V9U7q6zCyGQNCphy-70" value="HDMI to DP" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="1460" width="127" height="110" as="geometry" />
@@ -297,7 +297,7 @@
         <mxCell id="b5K1V9U7q6zCyGQNCphy-75" value="DP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-18" y="1550" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-86" value="2m extender" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="b5K1V9U7q6zCyGQNCphy-110" target="b5K1V9U7q6zCyGQNCphy-68">
+        <mxCell id="b5K1V9U7q6zCyGQNCphy-86" value="Extender" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="b5K1V9U7q6zCyGQNCphy-110" target="b5K1V9U7q6zCyGQNCphy-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b5K1V9U7q6zCyGQNCphy-84" value="Expender" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -349,6 +349,9 @@
         </mxCell>
         <mxCell id="b5K1V9U7q6zCyGQNCphy-112" value="Typec" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-231" y="2070" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="b5K1V9U7q6zCyGQNCphy-117" value="Typec" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="1810" width="40" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
