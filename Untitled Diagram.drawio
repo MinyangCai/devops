@@ -1,499 +1,302 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T06:17:59.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="A8nm8A4SI83duTVogdQ6" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T07:12:50.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JZNIiEQI2a2bmIh8xfaG" version="21.3.6" type="github">
   <diagram name="Page-1" id="ZHrkb8M3doUFQccYnInZ">
-    <mxGraphModel dx="2421" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4280" dy="-455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-1" value="Disabled" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="200" width="230" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-2" value="Compal Laptop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="302" y="200" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="SaD9-UyURZ3D5xDFc2nL-4" target="SaD9-UyURZ3D5xDFc2nL-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="262" y="290" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SaD9-UyURZ3D5xDFc2nL-7" target="SaD9-UyURZ3D5xDFc2nL-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-7" value="Typec" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="407.5" y="305" width="40" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="CkLI3NQmUDIv4lDxEzW_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="SaD9-UyURZ3D5xDFc2nL-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="90" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="240" y="435" />
-              <mxPoint x="240" y="470" />
-              <mxPoint x="170" y="470" />
-              <mxPoint x="170" y="250" />
-              <mxPoint x="60" y="250" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-8" value="Splitter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="198" y="410" width="168" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="262" y="400" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SaD9-UyURZ3D5xDFc2nL-10" target="SaD9-UyURZ3D5xDFc2nL-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="326" y="480" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SaD9-UyURZ3D5xDFc2nL-11" target="SaD9-UyURZ3D5xDFc2nL-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="200" y="480" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CkLI3NQmUDIv4lDxEzW_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SaD9-UyURZ3D5xDFc2nL-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="83" y="90" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="588" y="460" />
-              <mxPoint x="588" y="170" />
-              <mxPoint x="83" y="170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-13" value="DualHDMI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="410" width="168" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-14" value="Typec" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="407.5" y="415" width="40" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SaD9-UyURZ3D5xDFc2nL-16" target="SaD9-UyURZ3D5xDFc2nL-36" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="400" y="480" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SaD9-UyURZ3D5xDFc2nL-17" target="SaD9-UyURZ3D5xDFc2nL-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="528" y="480" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-20" value="Main Screen" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.monitor;" parent="1" vertex="1">
-          <mxGeometry x="-46" y="810" width="240" height="165" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-21" value="Sub Screen" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.monitor;" parent="1" vertex="1">
-          <mxGeometry x="562" y="810" width="240" height="165" as="geometry" />
-        </mxCell>
-        <mxCell id="CkLI3NQmUDIv4lDxEzW_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="SaD9-UyURZ3D5xDFc2nL-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="41.72727272727252" y="90" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-22" value="HDMI to DP" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="570" width="130" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="55" y="560" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-31" value="DP Line(1.5M)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="SaD9-UyURZ3D5xDFc2nL-24" target="SaD9-UyURZ3D5xDFc2nL-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-24" value="DP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="25" y="660" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="CkLI3NQmUDIv4lDxEzW_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="90" as="targetPoint" />
-            <mxPoint x="706.5" y="570" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="707" y="150" />
-              <mxPoint x="100" y="150" />
-              <mxPoint x="100" y="90" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-26" value="HDMI to DP" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="570" width="130" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="663" y="560" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-30" value="DP Line(1.5M)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="SaD9-UyURZ3D5xDFc2nL-28" target="SaD9-UyURZ3D5xDFc2nL-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-28" value="DP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="633" y="660" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-32" value="Capture&lt;br&gt;card" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="321.5" y="585" width="49" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="326" y="575" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SaD9-UyURZ3D5xDFc2nL-34" target="SaD9-UyURZ3D5xDFc2nL-40" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-34" value="Typec" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="326" y="735" width="40" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-35" value="Capture&lt;br&gt;card" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="395.5" y="585" width="49" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="400" y="575" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SaD9-UyURZ3D5xDFc2nL-37" target="SaD9-UyURZ3D5xDFc2nL-40" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-37" value="Typec" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="735" width="40" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="SaD9-UyURZ3D5xDFc2nL-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/uiux-001-solid/32/Camera-128.png" parent="1" vertex="1">
-          <mxGeometry x="319.5" y="860" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="CkLI3NQmUDIv4lDxEzW_-20" value="5V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="45" y="40" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-1" value="Disabled" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#004C99;" parent="1" vertex="1">
-          <mxGeometry x="217.5" y="1614" width="230" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-2" value="Compal Laptop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="279.5" y="1614" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="b5K1V9U7q6zCyGQNCphy-3" target="b5K1V9U7q6zCyGQNCphy-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="230" y="1614" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="b5K1V9U7q6zCyGQNCphy-4" target="b5K1V9U7q6zCyGQNCphy-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-4" value="Typec" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="393.5" y="1629" width="40" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-5" value="Splitter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-46" y="1310" width="168" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="18" y="1300" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="b5K1V9U7q6zCyGQNCphy-7" target="b5K1V9U7q6zCyGQNCphy-74" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="102" y="1430" />
-              <mxPoint x="32" y="1430" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="82" y="1380" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-9" value="Conv" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="385" y="1310" width="55.5" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="b5K1V9U7q6zCyGQNCphy-8" target="b5K1V9U7q6zCyGQNCphy-65" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="-44" y="1380" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-10" value="Typec" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="394.75" y="1390" width="40" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="b5K1V9U7q6zCyGQNCphy-11" target="b5K1V9U7q6zCyGQNCphy-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="411" y="1240" />
-              <mxPoint x="-236" y="1240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="394.75" y="1300" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-16" value="Splitter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-530" y="1300" width="168" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="-466" y="1290" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="b5K1V9U7q6zCyGQNCphy-18" target="b5K1V9U7q6zCyGQNCphy-61" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="-402" y="1370" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="b5K1V9U7q6zCyGQNCphy-19" target="b5K1V9U7q6zCyGQNCphy-71" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="-528" y="1370" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-21" value="5V" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-46" y="1310" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-23" value="5V" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-530" y="1300" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-48" value="Main Screen" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.monitor;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="1615" width="240" height="165" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-49" value="Sub Screen" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.monitor;" parent="1" vertex="1">
-          <mxGeometry x="-502" y="1615" width="240" height="165" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-60" value="Capture&lt;br&gt;card" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-268" y="1320" width="49" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-61" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="-263.5" y="1310" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.182;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="b5K1V9U7q6zCyGQNCphy-63" target="b5K1V9U7q6zCyGQNCphy-84" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-63" value="USB" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-263.5" y="1470" width="40" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-64" value="Capture&lt;br&gt;card" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-194" y="1320" width="49" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-65" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="-189.5" y="1310" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="b5K1V9U7q6zCyGQNCphy-67" target="b5K1V9U7q6zCyGQNCphy-96" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-67" value="USB" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-189.5" y="1470" width="40" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-68" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/uiux-001-solid/32/Camera-128.png" parent="1" vertex="1">
-          <mxGeometry x="-271.5" y="1810" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-70" value="HDMI to DP" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-480" y="1460" width="127" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-71" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="-438" y="1450" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="b5K1V9U7q6zCyGQNCphy-72" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-417.33333333333326" y="1610" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-72" value="DP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-468" y="1550" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-73" value="HDMI to DP" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="1460" width="120" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-74" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" parent="1" vertex="1">
-          <mxGeometry x="12" y="1450" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.717;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="b5K1V9U7q6zCyGQNCphy-75" target="b5K1V9U7q6zCyGQNCphy-48" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-75" value="DP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-18" y="1550" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-86" value="Extender" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="b5K1V9U7q6zCyGQNCphy-110" target="b5K1V9U7q6zCyGQNCphy-68" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-84" value="Expender" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-265" y="1505" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-95" value="USB" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-259" y="1505" width="40" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-96" value="USB" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-190" y="1505" width="40" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-108" value="2M" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="b5K1V9U7q6zCyGQNCphy-100" target="b5K1V9U7q6zCyGQNCphy-104" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-505" y="1170" />
-              <mxPoint x="530" y="1170" />
-              <mxPoint x="530" y="1689" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-100" value="Typec" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-525" y="1290" width="40" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="b5K1V9U7q6zCyGQNCphy-101" target="b5K1V9U7q6zCyGQNCphy-103" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-21" y="1200" />
-              <mxPoint x="490" y="1200" />
-              <mxPoint x="490" y="1672" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-109" value="1M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="b5K1V9U7q6zCyGQNCphy-107" vertex="1" connectable="0">
-          <mxGeometry x="-0.5176" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-101" value="Typec" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-41" y="1300" width="40" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-103" value="USB" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="401.75" y="1664" width="40" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-104" value="USB" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="401.75" y="1684" width="40" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-110" value="Typec" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-227.5" y="1565" width="40" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="b5K1V9U7q6zCyGQNCphy-117" value="Typec" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-230" y="1810" width="40" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-7" value="Disabled" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="217.5" y="2420" width="230" height="140" as="geometry" />
+          <mxGeometry x="221.5" y="2969.92" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-8" value="Compal Laptop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="279.5" y="2420" width="105" height="30" as="geometry" />
+          <mxGeometry x="283.5" y="2969.92" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGhvk5WUoHeAyWMThnL8-9" target="LGhvk5WUoHeAyWMThnL8-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" vertex="1" parent="1">
-          <mxGeometry x="230" y="2420" width="40" height="40" as="geometry" />
+          <mxGeometry x="234" y="2969.92" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGhvk5WUoHeAyWMThnL8-10" target="LGhvk5WUoHeAyWMThnL8-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-10" value="Typec" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="393.5" y="2435" width="40" height="10" as="geometry" />
+          <mxGeometry x="397.5" y="2984.92" width="40" height="10" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-19" value="HDMI to DP" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-162.5" y="2430" width="120" height="110" as="geometry" />
+          <mxGeometry x="-158.5" y="2979.92" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" vertex="1" parent="1">
-          <mxGeometry x="-120.5" y="2420" width="40" height="40" as="geometry" />
+          <mxGeometry x="-116.5" y="2969.92" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGhvk5WUoHeAyWMThnL8-21" target="LGhvk5WUoHeAyWMThnL8-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-21" value="DP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-150.5" y="2520" width="100" height="20" as="geometry" />
+          <mxGeometry x="-146.5" y="3069.92" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-22" value="Main Screen" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.monitor;" vertex="1" parent="1">
-          <mxGeometry x="-219.5" y="2612" width="240" height="165" as="geometry" />
+          <mxGeometry x="-215.5" y="3161.92" width="240" height="165" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-23" value="DP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-151.5" y="2612" width="100" height="20" as="geometry" />
+          <mxGeometry x="-147.5" y="3161.92" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-24" value="Conv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="384" y="2260" width="55.5" height="100" as="geometry" />
+          <mxGeometry x="388" y="2809.92" width="55.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-25" value="Typec" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="393.75" y="2340" width="40" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="LGhvk5WUoHeAyWMThnL8-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGhvk5WUoHeAyWMThnL8-26" target="LGhvk5WUoHeAyWMThnL8-37">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="414" y="2140" />
-              <mxPoint x="-260" y="2140" />
-              <mxPoint x="-260" y="2360" />
-              <mxPoint x="-409" y="2360" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="397.75" y="2889.92" width="40" height="10" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" vertex="1" parent="1">
-          <mxGeometry x="393.75" y="2250" width="40" height="40" as="geometry" />
+          <mxGeometry x="397.75" y="2799.92" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-28" value="HDMI to DP" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-534" y="2430" width="120" height="110" as="geometry" />
+          <mxGeometry x="-530" y="2979.92" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" vertex="1" parent="1">
-          <mxGeometry x="-492" y="2420" width="40" height="40" as="geometry" />
+          <mxGeometry x="-488" y="2969.92" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGhvk5WUoHeAyWMThnL8-30" target="LGhvk5WUoHeAyWMThnL8-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-30" value="DP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-522" y="2520" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LGhvk5WUoHeAyWMThnL8-31" value="Sub Screen" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.monitor;" vertex="1" parent="1">
-          <mxGeometry x="-590" y="2612" width="240" height="165" as="geometry" />
-        </mxCell>
-        <mxCell id="LGhvk5WUoHeAyWMThnL8-32" value="DP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-522" y="2612" width="100" height="20" as="geometry" />
+          <mxGeometry x="-518" y="3069.92" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-566" y="2200" width="248" height="110" as="geometry" />
+          <mxGeometry x="-562" y="2749.92" width="248" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-31" value="Sub Screen" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.monitor;" vertex="1" parent="1">
+          <mxGeometry x="-586" y="3161.92" width="240" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-32" value="DP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-518" y="3161.92" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGhvk5WUoHeAyWMThnL8-36" target="LGhvk5WUoHeAyWMThnL8-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" vertex="1" parent="1">
-          <mxGeometry x="-492" y="2270" width="40" height="40" as="geometry" />
+          <mxGeometry x="-488" y="2819.92" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" vertex="1" parent="1">
-          <mxGeometry x="-430.81" y="2267.19" width="42.81" height="42.81" as="geometry" />
-        </mxCell>
-        <mxCell id="LGhvk5WUoHeAyWMThnL8-38" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;" vertex="1" parent="1">
-          <mxGeometry x="-371" y="2263.19" width="34" height="34" as="geometry" />
+          <mxGeometry x="-426.81" y="2817.11" width="42.81" height="42.81" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-536.38" y="2276.81" width="20.38" height="20.38" as="geometry" />
+          <mxGeometry x="-532.38" y="2826.73" width="20.38" height="20.38" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-532.19" y="2281" width="12" height="12" as="geometry" />
+          <mxGeometry x="-528.19" y="2830.92" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-43" value="HDMI IN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="2253" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LGhvk5WUoHeAyWMThnL8-44" value="LAN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-384" y="2237.19" width="60" height="30" as="geometry" />
+          <mxGeometry x="-436" y="2802.92" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-45" value="HDMI OUT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-502" y="2253" width="64" height="30" as="geometry" />
+          <mxGeometry x="-498" y="2802.92" width="64" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-46" value="5V&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-556.19" y="2253" width="60" height="30" as="geometry" />
+          <mxGeometry x="-552.19" y="2802.92" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-47" value="HDMI Encoder&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-542" y="2200" width="200" height="30" as="geometry" />
+          <mxGeometry x="-610" y="2749.92" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-195.5" y="2200" width="248" height="110" as="geometry" />
+          <mxGeometry x="-191.5" y="2749.92" width="248" height="110" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGhvk5WUoHeAyWMThnL8-49" target="LGhvk5WUoHeAyWMThnL8-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" vertex="1" parent="1">
-          <mxGeometry x="-121.5" y="2270" width="40" height="40" as="geometry" />
+          <mxGeometry x="-117.5" y="2819.92" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-50" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" vertex="1" parent="1">
-          <mxGeometry x="-60.31" y="2267.19" width="42.81" height="42.81" as="geometry" />
-        </mxCell>
-        <mxCell id="LGhvk5WUoHeAyWMThnL8-51" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;" vertex="1" parent="1">
-          <mxGeometry x="-0.5" y="2263.19" width="34" height="34" as="geometry" />
+          <mxGeometry x="-56.31" y="2817.11" width="42.81" height="42.81" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-165.88" y="2276.81" width="20.38" height="20.38" as="geometry" />
+          <mxGeometry x="-161.88" y="2826.73" width="20.38" height="20.38" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-161.69000000000005" y="2281" width="12" height="12" as="geometry" />
+          <mxGeometry x="-157.69000000000005" y="2830.92" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-54" value="HDMI IN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="2253" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LGhvk5WUoHeAyWMThnL8-55" value="LAN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-13.5" y="2237.19" width="60" height="30" as="geometry" />
+          <mxGeometry x="-65.5" y="2802.92" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-56" value="HDMI OUT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-131.5" y="2253" width="64" height="30" as="geometry" />
+          <mxGeometry x="-127.5" y="2802.92" width="64" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-57" value="5V&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-185.69000000000005" y="2253" width="60" height="30" as="geometry" />
+          <mxGeometry x="-181.69000000000005" y="2802.92" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LGhvk5WUoHeAyWMThnL8-58" value="HDMI Encoder&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-171.5" y="2200" width="200" height="30" as="geometry" />
+          <mxGeometry x="-167.5" y="2749.92" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGhvk5WUoHeAyWMThnL8-26" target="LGhvk5WUoHeAyWMThnL8-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="418" y="2629.92" />
+              <mxPoint x="-406" y="2629.92" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="LGhvk5WUoHeAyWMThnL8-66" target="LGhvk5WUoHeAyWMThnL8-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-66" value="" style="shape=mxgraph.signs.tech.ethernet;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-366.5" y="2828.52" width="40.5" height="19.4" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="LGhvk5WUoHeAyWMThnL8-70" target="LGhvk5WUoHeAyWMThnL8-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="28.5" y="2530" />
+              <mxPoint x="489.5" y="2530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-70" value="" style="shape=mxgraph.signs.tech.ethernet;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="8" y="2828.22" width="40.5" height="19.4" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-71" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/uiux-001-solid/32/Camera-128.png" vertex="1" parent="1">
+          <mxGeometry x="457.31" y="2390" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-77" value="Disabled" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#004C99;" vertex="1" parent="1">
+          <mxGeometry x="1323" y="2971.42" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-78" value="Compal Laptop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1385" y="2971.42" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGhvk5WUoHeAyWMThnL8-80" target="LGhvk5WUoHeAyWMThnL8-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-80" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" vertex="1" parent="1">
+          <mxGeometry x="1335.5" y="2971.42" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGhvk5WUoHeAyWMThnL8-82" target="LGhvk5WUoHeAyWMThnL8-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-82" value="Typec" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1499" y="2986.42" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-83" value="HDMI to DP" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="943" y="2981.42" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-84" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" vertex="1" parent="1">
+          <mxGeometry x="985" y="2971.42" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGhvk5WUoHeAyWMThnL8-86" target="LGhvk5WUoHeAyWMThnL8-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-86" value="DP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="955" y="3071.42" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-87" value="Main Screen" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.monitor;" vertex="1" parent="1">
+          <mxGeometry x="886" y="3163.42" width="240" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-88" value="DP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="954" y="3163.42" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-89" value="Conv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1489.5" y="2811.42" width="55.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-90" value="Typec" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1499.25" y="2891.42" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-91" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" vertex="1" parent="1">
+          <mxGeometry x="1499.25" y="2801.42" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-92" value="HDMI to DP" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="571.5" y="2981.42" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-93" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" vertex="1" parent="1">
+          <mxGeometry x="613.5" y="2971.42" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGhvk5WUoHeAyWMThnL8-95" target="LGhvk5WUoHeAyWMThnL8-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-95" value="DP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="583.5" y="3071.42" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-96" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="539.5" y="2751.42" width="248" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-97" value="Sub Screen" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.monitor;" vertex="1" parent="1">
+          <mxGeometry x="515.5" y="3163.42" width="240" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-98" value="DP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="583.5" y="3163.42" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGhvk5WUoHeAyWMThnL8-100" target="LGhvk5WUoHeAyWMThnL8-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-100" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" vertex="1" parent="1">
+          <mxGeometry x="613.5" y="2821.42" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-101" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" vertex="1" parent="1">
+          <mxGeometry x="674.69" y="2818.61" width="42.81" height="42.81" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-102" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="569.12" y="2828.23" width="20.38" height="20.38" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-103" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="573.31" y="2832.42" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-104" value="HDMI IN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="665.5" y="2804.42" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-105" value="HDMI OUT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="603.5" y="2804.42" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-106" value="5V&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="549.31" y="2804.42" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-107" value="HDMI Encoder&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="491.5" y="2785.92" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-108" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="2751.42" width="248" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGhvk5WUoHeAyWMThnL8-110" target="LGhvk5WUoHeAyWMThnL8-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-110" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" vertex="1" parent="1">
+          <mxGeometry x="984" y="2821.42" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-111" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/hdmi-128.png" vertex="1" parent="1">
+          <mxGeometry x="1045.19" y="2818.61" width="42.81" height="42.81" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-112" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="939.62" y="2828.23" width="20.38" height="20.38" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-113" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="943.81" y="2832.42" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-114" value="HDMI IN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1036" y="2804.42" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-115" value="HDMI OUT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="974" y="2804.42" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-116" value="5V&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="919.81" y="2804.42" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-117" value="HDMI Encoder&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="934" y="2751.42" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGhvk5WUoHeAyWMThnL8-91" target="LGhvk5WUoHeAyWMThnL8-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1519.5" y="2665.92" />
+              <mxPoint x="695.5" y="2665.92" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="LGhvk5WUoHeAyWMThnL8-120" target="LGhvk5WUoHeAyWMThnL8-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-120" value="" style="shape=mxgraph.signs.tech.ethernet;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="735" y="2830.02" width="40.5" height="19.4" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="LGhvk5WUoHeAyWMThnL8-122" target="LGhvk5WUoHeAyWMThnL8-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGhvk5WUoHeAyWMThnL8-122" value="" style="shape=mxgraph.signs.tech.ethernet;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1109.5" y="2829.72" width="40.5" height="19.4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
